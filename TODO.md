@@ -137,8 +137,10 @@
 
 ### Front
 
-- [ ] 프로필 src
-- [ ] 토글 팔로우
+- [x] 프로필 src
+  - [ ] Header Right, 일대일 메세지, 질문남기기 OnPress,
+  - [ ] 대표 답변 qry 사용하기, status
+- [x] 토글 팔로우
 
 ### Back
 
